@@ -34,7 +34,7 @@ Service – business logic
 Repository – database access using JPA
 Mapper – maps request and response objects
 <img width="2188" height="1333" alt="Screenshot 2025-12-22 172819" src="https://github.com/user-attachments/assets/8a6dc4be-cea8-4b54-986c-10612ebb3991" />
-<img width="2248" height="1308" alt="Screenshot 2025-12-22 180343" src="https://github.com/user-attachments/assets/bd52eae5-6ebe-49e4-b064-910c51ffd96e" />
+
 <img width="1098" height="557" alt="Screenshot 2026-01-13 220915" src="https://github.com/user-attachments/assets/de53c4fe-7e4b-4100-85a5-1c644fdf4159" />
 <img width="1186" height="855" alt="Screenshot 2026-01-13 220829" src="https://github.com/user-attachments/assets/255ba996-f30f-4672-a335-141baae6e889" />
 <img width="1192" height="772" alt="Screenshot 2026-01-13 220732" src="https://github.com/user-attachments/assets/2ad9a989-0d46-439e-a534-becee29aee90" />

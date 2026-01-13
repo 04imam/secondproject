@@ -23,7 +23,8 @@ PUT /api/v1/products/{id} – update product
 DELETE /api/v1/products/{id} – delete product
 H2 Database
 URL: http://localhost:8080/console
-JDBC URL: jdbc:h2:mem:testdb
+JDBC URL: jdbc:h2:mem:testdb<img width="1233" height="838" alt="Screenshot 2026-01-13 220950" src="https://github.com/user-attachments/assets/2bdc8841-5ae6-410f-8417-3774615e470b" />
+
 User: sa
 Password: (empty)
 Swagger UI
